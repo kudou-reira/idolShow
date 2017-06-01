@@ -1,0 +1,9 @@
+export const EMAIL_CHANGE = 'email_change';
+export const PASSWORD_CHANGE = 'password_change';
+export const LOGIN_USER_SUCCESS = 'login_user_success';
+export const LOGIN_USER_FAIL = 'login_user_fail';
+export const LOGIN_USER_LOAD = 'login_user_load';
+export const IDOL_UPDATE = 'idol_update';
+export const IDOL_CREATE = 'idol_create';
+export const IDOL_FETCH_SUCCESS = 'idol_fetch_success';
+export const IDOL_SAVE_SUCCESS = 'idol_save_success';
